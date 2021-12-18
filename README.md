@@ -110,14 +110,14 @@ I am an aspiring Software Engineer, ML Engineer with strong problem-solving skil
 </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjbecomespheh" alt="jjbecomespheh" /></a> </p>
-
-
-
-<p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jjbecomespheh&show_icons=true&locale=en" alt="jjbecomespheh" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jjbecomespheh&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jjbecomespheh&theme=tokyonight" />
 </p>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jjbecomespheh&column=7&theme=onedark" />
+</div>
 <!--
 <a href="https://www.buymeacoffee.com/jjbecomespheh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174">
 </a> -->
