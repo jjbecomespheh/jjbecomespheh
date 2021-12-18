@@ -2,7 +2,7 @@
 ![ezgif com-gif-maker (29)](https://user-images.githubusercontent.com/50895766/146568600-76b99036-f29e-4537-b7c6-ef8c2c31dcb4.gif)
 <!--<br>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>-->
 
-<h1 align="center">I'm Pheh Jing Jie ( JJ ) 彭靖杰</h1>
+<h2 align="center">I'm Pheh Jing Jie ( JJ ) 彭靖杰</h2>
 <h3 align="center">A ML/AI and Robotics Software Engineer from Singapore</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -13,11 +13,12 @@
 <a href="https://medium.com/@jjbecomespheh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jjbecomespheh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/phehjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="phehjj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jjbecomespheh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jjbecomespheh" height="30" width="40" /></a>
+</p>
+<p>
 <a href="https://www.buymeacoffee.com/jjbecomespheh"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="168" alt="jjbecomespheh" />
 </a>  
 </p>
-
 
 I am currently a Penultimate year Computer Science Undergraduate from SUTD (Singapore University of Technology and Design), minor in Artificial Intelligence.
 
