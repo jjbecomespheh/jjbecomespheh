@@ -12,7 +12,7 @@
 <a href="https://kaggle.com/jjbecomespheh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jjbecomespheh" height="30" width="40" /></a>
 <a href="https://medium.com/@jjbecomespheh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jjbecomespheh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/phehjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="phehjj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jjbecomespheh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/50895766/146637464-73c2f3a4-aa80-45bd-9272-dd0afb1f24f5.png" alt="jjbecomespheh" height="30" width="135" /></a>
+<a href="https://www.leetcode.com/jjbecomespheh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/50895766/146637561-ee1dacac-cf11-480d-b245-058d03aecb33.png" alt="jjbecomespheh" height="30" width="30" /></a>
 </p>
 <p>
 <a href="https://www.buymeacoffee.com/jjbecomespheh"> 
